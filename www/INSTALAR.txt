@@ -1,0 +1,10 @@
+APK Builder v2.2
+
+Fixes:
+- Terminal sem proxy no APK (requisicoes diretas)
+- Importar URL sem proxy no APK
+- Sem referencias externas
+
+1. Copie o .apk para o celular
+2. Configuracoes > Seguranca > Fontes desconhecidas ON
+3. Instalar
